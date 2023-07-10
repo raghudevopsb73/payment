@@ -9,6 +9,7 @@ pipeline {
     stage('Unit tests') {
       steps {
         echo 'unit tests'
+        //sh 'python -m unittest'
       }
     }
 
