@@ -2,4 +2,4 @@
 
 env.cibuild = "python"
 env.component = "payment"
-payment()
+mainci()
